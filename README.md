@@ -1,0 +1,1 @@
+Just a little thing to for personal quickly create virutal enviorment for doing calculations in pyhton
