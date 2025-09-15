@@ -41,7 +41,7 @@ function pycalc() {
 
     elif [ $1 = "--examples" ]; then
         echo "Example usages of PyCalc:"
-        echo << wget -O ./Example1.py "https://raw.githubusercontent.com/ismager7878/PyCalc/refs/heads/main/Examples/Example1.py"
+        curl "https://raw.githubusercontent.com/ismager7878/PyCalc/refs/heads/main/Example.py"
 
     
     elif [ $1 = "--help" ]; then
