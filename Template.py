@@ -6,6 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from unum.units import *
 
+import control as ct
 
 
 
